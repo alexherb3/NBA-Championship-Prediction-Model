@@ -1,3 +1,5 @@
+# NBA-Championship-Prediction-Model
+
 [Playoff Championship Analysis.pdf](https://github.com/user-attachments/files/18272071/Playoff.Championship.Analysis.pdf)
 
 This project focuses on building a logistic regression model in Python to predict the probability of an NBA playoff team winning the championship based on their regular season statistics. Using historical NBA data from 27 seasons (spanning 432 playoff teams), we explored how various metrics influence championship outcomes, which can help aim to provide insights for sports analytics, betting strategies, and team management.  Our data additionally features 18 independent variables, for a total of 7,776 individual units of data. The full-in depth analysis is featured in the PDF file.
